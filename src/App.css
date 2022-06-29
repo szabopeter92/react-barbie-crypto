@@ -15,7 +15,7 @@ body{
 
     width: 100%;
     height: 200px;
-    background: linear-gradient(to right, palevioletred, papayawhip);
+    background: linear-gradient(to right, blue, purple);
     display: flex;
     flex-direction: column;
     justify-content: center;
